@@ -3,7 +3,6 @@ namespace ProjectSeries.Entities.Enum
     public enum Genero
     {
         Action = 1,
-
         Adventure = 2,
         Comedy = 3,
         Documentary = 4,
